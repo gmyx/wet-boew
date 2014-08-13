@@ -29,4 +29,10 @@
 },{
     "browserName": "chrome",
     "platform": "Mac 10.9"
+},{
+    "browserName": "firefox",
+    "platform": "Linux"
+},{
+    "browserName": "chrome",
+    "platform": "Linux"
 }]
